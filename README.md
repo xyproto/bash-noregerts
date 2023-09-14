@@ -33,7 +33,7 @@ Running cowsay...
                 ||     ||
 ```
 
-The next time cowsay hi is executed, the command_not_found_handler is not called and it just runs as normal:
+The next time cowsay hi is executed, the `command_not_found_handler` is not called and it just runs as normal:
 
 ```
 $ cowsay hi
