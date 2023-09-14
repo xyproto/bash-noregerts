@@ -16,7 +16,7 @@ Passwordless sudo access is recommended, but it's not good practice, hence the n
 
 ### Example use
 
-```sh
+```
 $ cowsay hi
 Updating files database...
 Checking if cowsay is available in the Arch Linux repositories...
